@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6930'
     url: http://www.gutenberg.org/2009/agents/6930
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16787#Life-of-Charles-Dickens
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:

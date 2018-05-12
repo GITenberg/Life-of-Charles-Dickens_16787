@@ -1,0 +1,30 @@
+_repo: Life-of-Charles-Dickens_16787
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marzials, Frank T. (Frank Thomas), Sir
+    aliases:
+    - Marzials, F. T. (Frank Thomas), Sir
+    - Marzials, Frank Thomas, Sir
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '6930'
+    url: http://www.gutenberg.org/2009/agents/6930
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870'
+title: Life of Charles Dickens
+url: http://www.gutenberg.org/ebooks/16787
